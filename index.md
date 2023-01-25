@@ -9,7 +9,7 @@
 We are always watching. When we watch enough, we become. We never just watch. When we watch close enough, we feel where we came from.
 
 <center>
-  <img src="imgs/panel_1/DALL·E 2023-01-24 22.26.25 - A surrealist photo of a person punching their television while crying in the dark.png" width="60%" />
+  <img src="imgs/panel_1/DALL·E 2023-01-24 22.26.39 - A surrealist photo of a person punching their television while crying in the dark.png" width="60%" />
 </center>
 
 Mother has sinned. Mother has eaten from the apple. God threw her from Eden to Earth, then she jumped off Earth to Hell, where she continued to eat the apple.
