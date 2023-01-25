@@ -1,13 +1,19 @@
-<!-- ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
---- -->
-
 # tserk -- цирк(овь)
 
-Жизнь это цирк, так что **добро пожаловать на наше представление**. Life is a circus, so welcome to our performance. We are pleased to have you.
+Жизнь это цирк, так что **добро пожаловать на наше представление**. Life is a circus, so welcome to our performance. tserk is a beautiful place, but it's not the beauty you know. To you, it is ugly and sad. But you will understand. It is a world of melancholy: digital melancholy.
+
+
+<div class="parent">
+<div>
+  <img src="imgs/panel_1/DALL·E 2023-01-24 22.26.25 - A surrealist photo of a person punching their television while crying in the dark.png">
+  </div>
+  <div>
+  <img src="imgs/panel_1/DALL·E 2023-01-24 22.26.39 - A surrealist photo of a person punching their television while crying in the dark.png">
+  </div>
+  <div>
+  <img src="imgs/panel_1/DALL·E 2023-01-24 22.26.43 - A surrealist photo of a person punching their television while crying in the dark.png">
+  </div>
+  <div>
+  <img src="imgs/panel_1/DALL·E 2023-01-24 22.31.30 - A surrealist photo of a person punching their television while crying in the dark.png">
+  </div>
+</div>
