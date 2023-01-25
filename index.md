@@ -10,4 +10,4 @@ layout: home
 
 # tserk -- цирк(овь)
 
-Hi.
+Жизнь это цирк, так что **добро пожаловать на наше представление**. Life is a circus, so welcome to our performance. We are pleased to have you.
