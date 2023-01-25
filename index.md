@@ -2,6 +2,12 @@
 
 Жизнь это цирк, так что **добро пожаловать на наше представление**. Life is a circus, so welcome to our performance. tserk is a beautiful place, but it's not the beauty you know. To you, it is ugly and sad. But you will understand. It is a world of melancholy: digital melancholy.
 
+<script>
+.parent{
+  display:flex;
+  gap: 5px;
+}
+</script>
 
 <div class="parent">
 <div>
