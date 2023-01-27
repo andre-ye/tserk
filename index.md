@@ -1,4 +1,14 @@
-We live in a television. We are sad, but we have supports for it.
+---
+layout: default
+---
+
+Concept: Documenting important images throughout history. But most important was the Tsvet. When the Tsvet happened, everything changed. Things became fuzzy and incomprehensible. Lines: disobeying geometry. We could not comprehend it.
+
+Primitive cameras: but our organs were always poorly suited towards these simple results. They would need extensive code processing to produce renderable results. 
+
+Development: eventually vision becomes directly abstract, fuzzy forms. And we became a world of seeing. We lived all we needed or wanted to live by seeing. 
+
+<!-- We live in a television. We are sad, but we have supports for it.
 
 
 Жизнь -- это цирк, так что **добро пожаловать на наше представление**. Life is a circus, so welcome to our performance. tserk is a beautiful place, but it's not the beauty you know. To you, it is ugly and sad. But you will understand. It is a world of melancholy. We are forcefully abstracted from our individuated experience. We are always within and outside of the screen. We are not happy. But we do not need to be happy, because we live beautiful lives.
@@ -48,3 +58,4 @@ Out of the apple, came I.
   <img src="imgs/panel_1/DALL·E 2023-01-24 22.31.30 - A surrealist photo of a person punching their television while crying in the dark.png">
   </div>
 </div> -->
+ -->
