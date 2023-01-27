@@ -1,3 +1,6 @@
+We live in a television. We are sad, but we have supports for it.
+
+
 Жизнь -- это цирк, так что **добро пожаловать на наше представление**. Life is a circus, so welcome to our performance. tserk is a beautiful place, but it's not the beauty you know. To you, it is ugly and sad. But you will understand. It is a world of melancholy. We are forcefully abstracted from our individuated experience. We are always within and outside of the screen. We are not happy. But we do not need to be happy, because we live beautiful lives.
 
 <br>
