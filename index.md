@@ -2,6 +2,9 @@
 layout: default
 ---
 
+Signs and screens --- gibberish language
+
+
 This is beauty, sin.
 
 This is monster, evil. It cycles up like so, and away...
