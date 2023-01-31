@@ -2,6 +2,10 @@
 layout: default
 ---
 
+This is beauty, sin.
+
+This is monster, evil. It cycles up like so, and away...
+
 Concept: Documenting important images throughout history. But most important was the Tsvet. When the Tsvet happened, everything changed. Things became fuzzy and incomprehensible. Lines: disobeying geometry. We could not comprehend it.
 
 Primitive cameras: but our organs were always poorly suited towards these simple results. They would need extensive code processing to produce renderable results. 
