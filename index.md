@@ -6,6 +6,18 @@ This is beauty, sin.
 
 This is monster, evil. It cycles up like so, and away...
 
+We experimented with lumenodes. They captured photons, inwards and outwards.
+
+Our eye is an independent cognitive unit. The world we see is one which is very powerful.
+
+But we could not understand it. It appears like a haze to us. We cannot even begin to understand what is present in the lumenrays. It is like noise, too sharp and grainy: like looking into the sun. And there is nothing when you look into the sun: you may be looking into space.
+
+The lumenographers say, "this is the real world. You just can't see it." But they cannot be right. This cannot be the real world. For I have seen what is real with my own eyes. 
+
+No, these are not the ways to live. Our eyes see all.
+
+---
+
 Concept: Documenting important images throughout history. But most important was the Tsvet. When the Tsvet happened, everything changed. Things became fuzzy and incomprehensible. Lines: disobeying geometry. We could not comprehend it.
 
 Primitive cameras: but our organs were always poorly suited towards these simple results. They would need extensive code processing to produce renderable results. 
