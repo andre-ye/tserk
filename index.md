@@ -2,32 +2,55 @@
 layout: default
 ---
 
-**When we do not know where to go**, we follow the signs. Sometimes, this is simple, because there is one direction we can go. It does not matter if we do not know where we will go.
+**When we do not know where to go**, we follow the signs. Sometimes, this is simple, because there is one direction we can go. It does not matter if we do not know where we will go. Thank you, sign, for guiding me when I do not know how to guide myself.
 
+<br>
 <center>
 <img src="imgs/1.5.png" width="60%" />
 </center>
+<br>
 
 But when there are two directions we can go, it is more complicated. We need to know where we will go. If we are going in one direction, we are not going in another. Because we cannot go in all directions at once, there is a sense of loss. Directions do not direct us towards endings, but rather direct us away from other directions: a recursive, absolutely negative entanglement. 
 But it is at this juncture where I, the traveler, experience the most radical moment of freedom. Sweet, precious freedom. How anxious authentic freedom is. I do not think I like my freedom very much. Please do not make me choose, because I am incompetent. I am stupid. I am illiterate. I cannot read. Please liberate me from my freedom.
 
+<br>
 <center>
 <img src="imgs/2.png" width="60%" />
 </center>
+<br>
 
-Sometimes, we need to go in both directions to arrive home. Now this is confusing.
+Sometimes, we need to go in both directions to arrive home. Now this is confusing. I want to go here but I need to go there and there, together. So I stand here and look at the signs -- pretending I know what they mean, but not telling anyone else that I have given up long ago. After a long time, I realize that the sign has been pointing myself to myself. I was home all along.
 
+<br>
 <center>
 <img src="imgs/3.png" width="60%" />
 </center>
+<br>
 
-hello
+Many signs are ordered. They form grids, arrays. Pixels in a screen. They are less disorienting. But they provide no orientation. They are flat.
 
+<br>
 <center>
 <img src="imgs/4.png" width="60%" />
 </center>
+<br>
+
+Other signs are curved, twisted. They have depth. They are more disorienting. But they provide us with an orientation: within.
+
+<br>
+<center>
+<img src="imgs/5.png" width="60%" />
+</center>
+<br>
 
 
+There are too many signs. Too many directions. So here I am. I stand at a straight road with an empty sign.
+
+<br>
+<center>
+<img src="imgs/99.png" width="60%" />
+</center>
+<br>
 
 ---
 
