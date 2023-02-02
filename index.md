@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**When we do not know where to go**, we follow the signs. Sometimes, this is simple, because there is one direction we can go. It does not matter if we do not know where we will go. Thank you, sign, for guiding me when I do not know how to guide myself.
+**When I do not know where to go**, I follow the sign. This is simple, because there is one direction I can go: the direction the sign points in. It does not matter if I do not know where I will go. Thank you, sign, for guiding me when I do not know how to guide myself. But this is a naive state of the world. Perhaps it is even one which never existed at all, except in the nostalgic past of present minds.
 
 <br>
 <center>
@@ -10,8 +10,7 @@ layout: default
 </center>
 <br>
 
-But when there are two directions we can go, it is more complicated. We need to know where we will go. If we are going in one direction, we are not going in another. Because we cannot go in all directions at once, there is a sense of loss. Directions do not direct us towards endings, but rather direct us away from other directions: a recursive, absolutely negative entanglement. 
-But it is at this juncture where I, the traveler, experience the most radical moment of freedom. Sweet, precious freedom. How anxious authentic freedom is. I do not think I like my freedom very much. Please do not make me choose, because I am incompetent. I am stupid. I am illiterate. I cannot read. Please liberate me from my freedom.
+There are two signs pointing in different directions. Where should I go? I need to know where I am going. If I go in one direction, I will not be going in another. Directions do not direct us towards places, but rather away from other directions. Directionality is a recursive, absolutely negative entanglement. And here I stand, entangled. But I am not unfree. I experience my most radical moment of freedom at this juncture. How sweet and precious it is. I am my own determiner. I choose where I am going. How beautiful it is. How anxious it is. How nervous my freedom makes me. I do not think I like this freedom very much. Please do not make me choose, because I have just realized that I am illiterate. I am incompetent. I cannot read. Please teach me how to read, so I can understand the sign, and allow the sign to determine me. Please liberate me from my freedom. 
 
 <br>
 <center>
@@ -19,7 +18,7 @@ But it is at this juncture where I, the traveler, experience the most radical mo
 </center>
 <br>
 
-Sometimes, we need to go in both directions to arrive home. Now this is confusing. I want to go here but I need to go there and there, together. So I stand here and look at the signs -- pretending I know what they mean, but not telling anyone else that I have given up long ago. After a long time, I realize that the sign has been pointing myself to myself. I was home all along.
+I need to go in both directions to arrive home. I want to go here but I need to go both there and there, together. This is confusing. But it is not anxious. It does not matter that I am illiterate. It is a logical confusion. So I stand here and look at the signs -- pretending I know what they mean, but not telling anyone else that I have given up long ago. I am happy. After a long time, I realize that the signs have been pointing to myself. I was home all along.
 
 <br>
 <center>
@@ -27,7 +26,35 @@ Sometimes, we need to go in both directions to arrive home. Now this is confusin
 </center>
 <br>
 
-Many signs are ordered. They form grids, arrays. Pixels in a screen. They are less disorienting. But they provide no orientation. They are flat.
+Sometimes I come across ordered signs at street intersections in the cities. They form grids, arrays -- pixels in a frozen screen. They are quite flat: they have no dimension. But they certainly have directions, even if they are messy ones. I follow one direction, but it points me towards another which moves me in a different direction. I stand in front of the assemblage and spasm my body until it is too tired, and then I search for the next assemblage.
+
+<br>
+<center>
+<img src="imgs/5.png" width="60%" />
+</center>
+<br>
+
+I can't read the signs. No one else can, either. Most people, that is. The signs aren't there to be read. Everyone knows that. Most people, that is.
+
+<br>
+<center>
+<img src="imgs/7.png" width="60%" />
+</center>
+<br>
+
+The Reaksonïa insist that if everyone learned to read like they could, that we wouldn't have so much difficulty getting around. If I learnt how to read, they said, I could look at the signs and choose the one which would take me where I wanted to go. And I could just go. But I don't know where I want to go to begin with. And I don't believe that the Reaksonïa really know how to read the signs at all.
+
+
+
+Everyone knows the Stroïtel keeps on writing them. Most people, that is. Stroïtel creates all of the signs in Tserk. Stroïtel knows no one can read. That's why She creates them.
+
+<br>
+<center>
+<img src="imgs/8.png" width="60%" />
+</center>
+<br>
+
+
 
 <br>
 <center>
@@ -35,13 +62,17 @@ Many signs are ordered. They form grids, arrays. Pixels in a screen. They are le
 </center>
 <br>
 
-Other signs are curved, twisted. They have depth. They are more disorienting. But they provide us with an orientation: within.
+Some signs, very few ones, are curved and twisted. They have depth. They are more disorienting, but they provide us with an orientation: within, into. The directions here do not point us away from other directions, even if they appear like they do, because the fabric of their directionality bends inwards. 
+
+
 
 <br>
 <center>
-<img src="imgs/5.png" width="60%" />
+<img src="imgs/9.png" width="60%" />
 </center>
 <br>
+
+
 
 
 There are too many signs. Too many directions. So here I am. I stand at a straight road with an empty sign.
