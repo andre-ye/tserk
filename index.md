@@ -94,7 +94,7 @@ When I step out, I stand on a blank road with a blank sign. I don't know where t
 </center>
 <br>
 
-<p align="left">
+<p align="right">
 but I feel that I am beginning to learn how to read.
 </p>
  
