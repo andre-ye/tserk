@@ -86,7 +86,7 @@ This is confusing. These signs are curved and twisted. They have depth. They are
 
 I step into the signs.
 
-When I step out, I stand on a blank road with a blank sign. I don't know where to go, but I feel that I am beginning to learn how to read.
+When I step out, I stand on a blank road with a blank sign. I don't know where to go,
 
 <br>
 <center>
@@ -94,6 +94,10 @@ When I step out, I stand on a blank road with a blank sign. I don't know where t
 </center>
 <br>
 
+<p align="left">
+but I feel that I am beginning to learn how to read.
+</p>
+ 
 ---
 
 <font size="3">
